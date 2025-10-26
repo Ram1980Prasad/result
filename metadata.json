@@ -1,0 +1,5 @@
+{
+  "name": "Student Marksheet Data Entry",
+  "description": "A web application for entering student marksheet data into a table, designed to integrate with a Google Sheet backend. It features a responsive, user-friendly interface for efficient data management.",
+  "requestFramePermissions": []
+}
